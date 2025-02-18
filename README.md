@@ -8,3 +8,6 @@
 &emsp;2.Address the issue of the diversity of physiological parameter sources by researching multimodal physiological parameter acquisition, communication, storage, and management. Develop a hardware device for multi - physiological parameter acquisition based on the STM32 microcontroller.<br> 
 &emsp;3.Familiarize yourself with the communication principles in the physiological parameter acquisition process (such as Bluetooth communication technology), design the data storage structure, and implement basic multimodal physiological parameter acquisition and storage.<br>
 &emsp;4.Develop an Android app to present an interactive interface that can display data and results.
+
+### Referance
+[[1] 孟妍,郑刚,戴敏,赵瑞,可穿戴心电信号采集与分析系统的设计与实现[J].计算机科学, 2015,42(10): 39-42.](Reference/可穿戴心电信号采集与分析系统的设计与实现_孟妍.pdf)
